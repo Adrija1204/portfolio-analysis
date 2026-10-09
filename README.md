@@ -31,6 +31,12 @@ Realized P&L was cross-checked: Python and SQL results match exactly.
 
 Assumptions: risk-free rate 6.5%, 252 trading days, unrealized P&L valued at the latest available close.
 
+## Key Insights
+- ICICIBANK has the highest Sharpe ratio (about 0.68); HINDUNILVR has a negative Sharpe (about -0.34).
+- HINDUNILVR also had the deepest max drawdown (about -36%).
+- Same-sector pairs (TCS-INFY, HDFCBANK-ICICIBANK) are more correlated, so sector concentration limits diversification.
+- P1 earned the most realized profit but carries a large unrealized loss in open positions.
+
 ## Dashboard Preview
 
 ### Portfolio Overview
